@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Dự Báo Thời Tiết Của Thảo</string>
+    <string name="mic_desc" translatable="false">mic for search</string>
+    <string name="day">Ngày</string>
+    <string name="pressure">Áp Suất</string>
+    <string name="wind">Tốc Độ Gió</string>
+    <string name="humidity">Độ Ẩm</string>
+    <string name="enter_city_name">Nhập Tên Thành Phố</string>
+    <string name="updated_at"> </string>
+    <string name="monday">THỨ HAI</string>
+    <string name="tuesday">THỨ BA</string>
+    <string name="wednesday">THỨ TƯ</string>
+    <string name="thursday">THỨ NĂM</string>
+    <string name="friday">THỨ SÁU</string>
+    <string name="saturday">THỨ BẢY</string>
+    <string name="sunday">CHỦ NHẬT</string>
+</resources>
